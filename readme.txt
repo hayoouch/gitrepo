@@ -1,12 +1,5 @@
-Git is a version control system.
-Git is free software.
-
-
-my hayo!
-
-
-udpate once
-
-update twice
-
-update 333
+My name hayo
+From China
+I'm a java programmer
+Just starting to learn git
+Fighting
